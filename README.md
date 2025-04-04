@@ -5,7 +5,7 @@
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/davidgonzalez24/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
 </p>
 
