@@ -1,5 +1,7 @@
 # Hi I'm David
 
+## A Passionate Software Engineer
+
 📫 How to reach me: [dagonz0421@gmail.com](mailto:your.dagonz0421@gmail.com)
 
 ## Connect with me:
