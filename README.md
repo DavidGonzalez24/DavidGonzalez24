@@ -1,6 +1,6 @@
 # Hi I'm David
 
-# A passionate software engineer
+## A passionate software engineer
 
 📫 How to reach me: [dagonz0421@gmail.com](mailto:your.dagonz0421@gmail.com)
 
