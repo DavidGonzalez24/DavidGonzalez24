@@ -1,6 +1,6 @@
 # Hi I'm David
 
-📫 How to reach me: [dagonz0421@gmail.com](mailto:your.dagonz0421@gmail.com)
+📫 You can reach reach me @[dagonz0421@gmail.com](mailto:your.dagonz0421@gmail.com)
 
 ## Connect with me:
 <p align="left">
